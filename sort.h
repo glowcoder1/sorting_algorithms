@@ -27,5 +27,6 @@ void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 int lumito_partition(int *array, int low, int high, size_t size);
 void quick_sorter(int *array, int low, int high, size_t size);
+void shell_sort(int *array, size_t size);
 
 #endif
